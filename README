@@ -1,0 +1,9 @@
+
+Backup remover
+
+Removes old backups from directories specified in dirs.txt separated by line,
+should only remove one of the oldest and should keep 2 latest
+
+use
+sbt assembly to deploy a jar
+

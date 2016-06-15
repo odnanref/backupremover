@@ -1,0 +1,7 @@
+/home/tesouraria/adriana-backup
+/home/tesouraria/adriana2-backup
+/home/faturamento/backup-diu/
+/home/faturamento/backups-zeze/
+/home/backup-hosp/
+/media/backupdrive/Bddados1/NG/
+/media/backupdrive/SistemaBackupSMGH/
